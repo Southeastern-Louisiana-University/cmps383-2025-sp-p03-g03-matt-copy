@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Selu383-SP25-P03-Mobile-g03",
-    "slug": "selu383-sp25-p03-mobile-g03",
+    "name": "Selu383-SP25-P03-Mobile-g03-mattcopy",
+    "slug": "selu383-sp25-p03-mobile-g03-mattcopy",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/movie-theater.png",
@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/movie-theater.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.selu383.sp25.p03.g03"
+      "package": "com.selu383.sp25.p03.g03.mc"
     },
     "web": {
       "bundler": "metro",
@@ -43,9 +43,9 @@
         "origin": false
       },
       "eas": {
-        "projectId": "27d08376-6fe6-40c7-bb46-76bc7cc5e7d9"
+        "projectId": "7c3164ec-ff0b-4e20-9ee3-e642da961d2e"
       }
     },
-    "owner": "chrisrichjr"
+    "owner": "matthewvidacovich"
   }
 }
