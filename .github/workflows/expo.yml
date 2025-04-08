@@ -1,7 +1,6 @@
 on:
   push:
-    branches:
-      - master
+    branches:branches: ["fix/build"]
 jobs:
   update:
     runs-on: ubuntu-latest
